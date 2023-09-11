@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "name": "Rolex Submariner",
+      "name": "Samsung",
       "price": 10000
     },
     {
       "id": 2,
-      "name": "Tag Heuer Carrera",
+      "name": "Apple",
       "price": 3500
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "id": 5,
-      "name": "Seiko SKX007",
+      "name": "MI mcX007",
       "price": 200
     }
   ]
